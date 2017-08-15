@@ -1,3 +1,7 @@
+---
+title: Type-level recursion in Rust
+---
+
 ## Type-level recursion
 ### in Rust
 
@@ -491,10 +495,10 @@ used in the final result.
 
 ## Left as an exercise
 
-Hint: Use an Hlist type for the index.
+Hint: Use an HList type for the index.
 
 ---
 
 # Thanks !
 
-Check out frunk: https://docs.rs/frunk
+Check out frunk: [github.com/lloydmeta/frunk](https://github.com/lloydmeta/frunk)
